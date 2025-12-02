@@ -1,0 +1,10 @@
+OS
+Java
+DSA
+ML
+Git
+DBMS
+Python
+IoT
+CN
+
